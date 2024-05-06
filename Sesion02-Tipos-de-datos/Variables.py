@@ -9,3 +9,10 @@ print(nombreCompleto)
 print("Tipo de dato de la variable: "+nombre)
 print(type(nombre))
 
+
+#tipo int (entero)
+print("TIPO DE DATO INT")
+edad = 18
+edad += 1
+print("Edad: ",edad)
+print("Tipo de dato de la variable edad: ",type(edad))
